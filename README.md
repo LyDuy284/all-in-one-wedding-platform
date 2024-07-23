@@ -29,11 +29,16 @@
 - Manage Dashboard
 - Manage Account
 # III. Technology Application:
-## 1. Front-End: TypeScript, HTML/CSS, Firebase
-## 2. Back-End: Java Spring Boot, Spring security
-## 3. Database: Mysql
-## 4. Version control: Git with GitHub
-## 5. Project Management: Jira
+## 1. Front-End: 
+- TypeScript, HTML/CSS, Firebase
+## 2. Back-End: 
+- Java Spring Boot, Spring security
+## 3. Database:
+- Mysql
+## 4. Version control: 
+- Git with GitHub
+## 5. Project Management: 
+- Jira
 ## 6. Deployment and hosting:
 - Back-End: AWS, Docker
 - Front-End: Vercel

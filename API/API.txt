@@ -1,1 +1,1 @@
-https://weddingapp.whiteflower-8a918537.australiaeast.azurecontainerapps.io/swagger-ui/index.html
+https://the-day-eqh7h5gwadbga9fe.eastus-01.azurewebsites.net/swagger-ui/index.html
